@@ -16,4 +16,3 @@ for f in folders.split(" "):
         
     except Exception as e:
         print(e)
-
